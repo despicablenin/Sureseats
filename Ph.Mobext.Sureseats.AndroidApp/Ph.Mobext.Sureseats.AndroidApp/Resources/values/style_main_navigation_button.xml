@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<resources>
+	<style name="style_main_navigation_button">
+	<item name="android:gravity">center</item>
+	<item name="android:layout_alignParentBottom">true</item>
+	<item name="android:layout_height">wrap_content</item>
+	<item name="android:layout_width">match_parent</item>
+
+	<item name="android:paddingBottom">6dp</item>
+	</style>
+</resources>

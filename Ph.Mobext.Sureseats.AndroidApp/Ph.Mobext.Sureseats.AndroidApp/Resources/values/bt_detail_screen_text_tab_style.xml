@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<resources>
+    <style name="bt_detail_screen_text_tab_style" parent="@style/style_fill_parent">
+        <item name="android:gravity">center</item>
+    </style>
+</resources>

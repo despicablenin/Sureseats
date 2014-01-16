@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/style_fill_parent"
+    android:background="@drawable/bg_body"
+    android:orientation="vertical">
+<!--Holder of all Buy Ticket UI-->
+    <LinearLayout
+        android:layout_gravity="top"
+        android:layout_weight="1"
+        android:layout_height="270dp"
+        android:layout_width="fill_parent"
+        android:orientation="horizontal">
+        <LinearLayout
+            style="@style/style_wrap_content"
+            android:layout_gravity="center"
+            android:orientation="horizontal">
+        <!--Left layout containing the image-->
+            <LinearLayout
+                android:layout_height="wrap_content"
+                android:layout_width="120dp"
+                android:orientation="horizontal">
+            <!--Image of the movie-->
+                <ImageView
+                    android:id="@+id/MT_imgMovie"
+                    android:background="@drawable/testing"
+                    style="@style/style_wrap_content"
+                    android:layout_marginLeft="8dp"
+                    android:layout_marginRight="5dp"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginBottom="5dp"
+                    android:scaleType="fitCenter" />
+            </LinearLayout>
+        </LinearLayout>
+    <!--Right layout that holds the Controls at the top container-->
+        <LinearLayout
+            android:id="@+id/MT_relControlHolder"
+            style="@style/style_fill_parent"
+            android:gravity="left"
+            android:orientation="vertical">
+        <!--Movie title-->
+            <TextView
+                android:id="@+id/MT_tvMovieDisplayTitle"
+                style="@style/style_wrap_content"
+                android:text="ABOUT TIME (2D)"
+                android:gravity="left"
+                android:layout_marginTop="8dp"
+                android:layout_marginLeft="5dp"
+                android:layout_weight="1" />
+        <!--User rating-->
+            <LinearLayout
+                android:id="@+id/MT_relUserRatingHolder"
+                android:gravity="left"
+                android:layout_height="25dp"
+                android:layout_weight="1"
+                android:layout_width="wrap_content"
+                android:orientation="horizontal">
+                <TextView
+                    android:id="@+id/MT_tvUserRating"
+                    style="@style/style_wrap_content"
+                    android:text="User's Rating"
+                    android:gravity="bottom"
+                    android:layout_marginLeft="5dp" />
+            </LinearLayout>
+        <!--MTRCB Rating, Playtime and Genre-->
+            <RelativeLayout
+                android:id="@+id/MT_relMiscHolder"
+                android:layout_height="25dp"
+                android:layout_weight="1"
+                android:layout_width="fill_parent"
+                android:orientation="horizontal">
+                <TextView
+                    android:id="@+id/MT_tvMTRCBRating"
+                    android:text="G"
+                    android:background="@drawable/bg_xml_round_border_green"
+                    android:gravity="center"
+                    android:layout_alignParentLeft="true"
+                    android:layout_height="18dp"
+                    android:layout_marginLeft="2dp"
+                    android:layout_width="35dp" />
+                <TextView
+                    android:id="@+id/MT_tvMiscDetails"
+                    style="@style/style_fill_parent"
+                    android:text="125 MIN | Romance/Fantasy"
+                    android:gravity="right"
+                    android:layout_alignParentRight="true"
+                    android:layout_marginRight="15dp" />
+            </RelativeLayout>
+            <LinearLayout
+                android:gravity="left"
+                android:layout_height="wrap_content"
+                android:layout_width="fill_parent"
+                android:layout_weight="1"
+                android:padding="2dp"
+                android:orientation="horizontal">
+                <TextView
+                    android:id="@+id/MT_tvBuyTicket"
+                    android:background="@drawable/bg_xml_round_border_orange"
+                    android:text="BUY TICKET"
+                    android:gravity="center"
+                    android:layout_height="38dp"
+                    android:layout_width="fill_parent"
+                    android:layout_gravity="left"
+                    android:layout_marginRight="8dp"
+                    android:layout_marginBottom="8dp" />
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+<!--Holder of tabpages-->
+    <FrameLayout
+        android:id="@+id/MT_linBase"
+        style="@style/style_fill_parent"
+        android:layout_gravity="bottom"
+        android:layout_weight="1">
+        <ScrollView
+            style="@style/style_fill_parent"
+            android:orientation="vertical">
+            <LinearLayout
+                style="@style/style_fill_parent"
+                android:orientation="vertical"
+                android:padding="5dp">
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="50dp"
+                    android:orientation="horizontal"
+                    android:padding="5dp">
+                    <LinearLayout
+                        style="@style/bt_detail_screen_tab_page_style"
+                        android:id="@+id/MT_linDetail"
+                        android:layout_gravity="left">
+                        <TextView
+                            style="@style/bt_detail_screen_text_tab_style"
+                            android:id="@+id/MT_tvDetail"
+                            android:text="DETAIL" />
+                    </LinearLayout>
+                    <LinearLayout
+                        style="@style/bt_detail_screen_tab_page_style"
+                        android:id="@+id/MT_linSchedule"
+                        android:layout_gravity="center">
+                        <TextView
+                            style="@style/bt_detail_screen_text_tab_style"
+                            android:id="@+id/MT_tvSchedule"
+                            android:text="SCHEDULE" />
+                    </LinearLayout>
+                    <LinearLayout
+                        style="@style/bt_detail_screen_tab_page_style"
+                        android:id="@+id/MT_linTrailer"
+                        android:layout_gravity="right">
+                        <TextView
+                            style="@style/bt_detail_screen_text_tab_style"
+                            android:id="@+id/MT_tvTrailer"
+                            android:text="TRAILER" />
+                    </LinearLayout>
+                </LinearLayout>
+                <FrameLayout
+                    android:id="@+id/MT_fraLayout"
+                    style="@style/style_fill_parent"
+                    android:padding="5dp">
+                    <LinearLayout
+                        style="@style/style_fill_parent"
+                        android:id="@+id/MT_linDetailContent"
+                        android:background="#FFFF00"
+                        android:orientation="horizontal"
+                        android:padding="5dp" />
+                    <LinearLayout
+                        style="@style/style_fill_parent"
+                        android:id="@+id/MT_linScheduleContent"
+                        android:background="#0000FF"
+                        android:orientation="horizontal"
+                        android:padding="5dp" />
+                    <LinearLayout
+                        style="@style/style_fill_parent"
+                        android:id="@+id/MT_linTrailerContent"
+                        android:background="#FF0040"
+                        android:orientation="horizontal"
+                        android:padding="5dp" />
+                </FrameLayout>
+            </LinearLayout>
+        </ScrollView>
+    </FrameLayout>
+</LinearLayout>
