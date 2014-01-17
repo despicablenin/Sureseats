@@ -1,0 +1,2 @@
+C:\Users\try\Desktop\Sureseats Android App\sureseats-final-repo\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\bin\Debug\Ph.Mobext.Sureseats.AndroidApp.dll
+C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v2.2\Mono.Android.Support.v4.dll

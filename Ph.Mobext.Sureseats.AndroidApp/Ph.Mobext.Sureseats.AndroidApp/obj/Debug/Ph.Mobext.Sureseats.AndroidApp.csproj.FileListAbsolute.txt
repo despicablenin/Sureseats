@@ -1,0 +1,191 @@
+C:\Users\try\Documents\Projects\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\bin\Debug\Ph.Mobext.Sureseats.AndroidApp.dll
+C:\Users\try\Documents\Projects\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\bin\Debug\Ph.Mobext.Sureseats.AndroidApp.pdb
+C:\Users\try\Documents\Projects\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\bin\Debug\Ph.Mobext.Sureseats.AndroidApp.dll.mdb
+C:\Users\try\Documents\Projects\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\bin\Debug\Ph.Mobext.Sureseats.AndroidApp.apk
+C:\Users\try\Documents\Projects\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\bin\Debug\Ph.Mobext.Sureseats.AndroidApp-Signed.apk
+C:\Users\try\Documents\Projects\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\obj\Debug\Ph.Mobext.Sureseats.AndroidApp.dll
+C:\Users\try\Documents\Projects\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\obj\Debug\Ph.Mobext.Sureseats.AndroidApp.pdb
+C:\Users\try\Documents\Projects\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\obj\Debug\android\bin\Ph.Mobext.Sureseats.AndroidApp.apk
+C:\Users\try\Documents\Projects\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\obj\Debug\res\layout\main.xml
+C:\Users\try\Documents\Projects\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\obj\Debug\res\values\strings.xml
+C:\Users\try\Documents\Projects\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\obj\Debug\res\drawable\icon.png
+C:\Users\try\Documents\Projects\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\obj\Debug\res\layout\activity_loginmasterpage.xml
+C:\Users\try\Documents\Projects\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\obj\Debug\res\layout\activity_masterpage.xml
+C:\Users\try\Documents\Projects\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\obj\Debug\res\layout\activity_splashscreen.xml
+C:\Users\try\Documents\Projects\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\obj\Debug\res\layout\dialog_instruction.xml
+C:\Users\try\Documents\Projects\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\obj\Debug\res\layout\dialog_mtrcbrating.xml
+C:\Users\try\Documents\Projects\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\obj\Debug\res\layout\dialog_nomtrcbrating.xml
+C:\Users\try\Documents\Projects\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\obj\Debug\res\layout\dialog_verifypassword.xml
+C:\Users\try\Documents\Projects\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\obj\Debug\res\layout\dialogverifypassword.xml
+C:\Users\try\Documents\Projects\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\obj\Debug\res\layout\frag_checkin.xml
+C:\Users\try\Documents\Projects\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\obj\Debug\res\layout\frag_login_one.xml
+C:\Users\try\Documents\Projects\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\obj\Debug\res\layout\frag_login_two.xml
+C:\Users\try\Documents\Projects\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\obj\Debug\res\layout\frag_movie_termsandconditiondetail.xml
+C:\Users\try\Documents\Projects\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\obj\Debug\res\layout\frag_moviedetailscreen.xml
+C:\Users\try\Documents\Projects\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\obj\Debug\res\layout\frag_moviedetailtab.xml
+C:\Users\try\Documents\Projects\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\obj\Debug\res\layout\frag_moviehome.xml
+C:\Users\try\Documents\Projects\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\obj\Debug\res\layout\frag_moviescrollhome.xml
+C:\Users\try\Documents\Projects\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\obj\Debug\res\layout\frag_movietermsandcondition.xml
+C:\Users\try\Documents\Projects\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\obj\Debug\res\layout\frag_movietermsandconditiondetail.xml
+C:\Users\try\Documents\Projects\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\obj\Debug\res\layout\frag_movieticket.xml
+C:\Users\try\Documents\Projects\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\obj\Debug\res\layout\frag_myacctticketlistitem.xml
+C:\Users\try\Documents\Projects\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\obj\Debug\res\layout\frag_myticketlistitem.xml
+C:\Users\try\Documents\Projects\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\obj\Debug\res\layout\frag_promo.xml
+C:\Users\try\Documents\Projects\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\obj\Debug\res\layout\seatplaninstructionscreen.xml
+C:\Users\try\Documents\Projects\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\obj\Debug\res\layout\viewpager_xml.xml
+C:\Users\try\Documents\Projects\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\obj\Debug\res\values\bt_detail_screen_tab_page_style.xml
+C:\Users\try\Documents\Projects\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\obj\Debug\res\values\bt_detail_screen_text_tab_style.xml
+C:\Users\try\Documents\Projects\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\obj\Debug\res\values\rel_style.xml
+C:\Users\try\Documents\Projects\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\obj\Debug\res\values\style_dialog_border.xml
+C:\Users\try\Documents\Projects\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\obj\Debug\res\values\style_fill_parent.xml
+C:\Users\try\Documents\Projects\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\obj\Debug\res\values\style_main_navigation_button.xml
+C:\Users\try\Documents\Projects\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\obj\Debug\res\values\style_termsandconditiontextview.xml
+C:\Users\try\Documents\Projects\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\obj\Debug\res\values\style_termsandconditiontextview_values.xml
+C:\Users\try\Documents\Projects\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\obj\Debug\res\values\style_wrap_content.xml
+C:\Users\try\Documents\Projects\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\obj\Debug\res\anim\slide_down.xml
+C:\Users\try\Documents\Projects\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\obj\Debug\res\anim\slide_in_left.xml
+C:\Users\try\Documents\Projects\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\obj\Debug\res\anim\slide_left.xml
+C:\Users\try\Documents\Projects\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\obj\Debug\res\anim\slide_out_right.xml
+C:\Users\try\Documents\Projects\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\obj\Debug\res\anim\slide_right.xml
+C:\Users\try\Documents\Projects\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\obj\Debug\res\anim\slide_up.xml
+C:\Users\try\Documents\Projects\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\obj\Debug\res\drawable\ayala_logo_large.png
+C:\Users\try\Documents\Projects\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\obj\Debug\res\drawable\bg_body.jpg
+C:\Users\try\Documents\Projects\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\obj\Debug\res\drawable\bg_header.jpg
+C:\Users\try\Documents\Projects\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\obj\Debug\res\drawable\bg_home_arc.gif
+C:\Users\try\Documents\Projects\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\obj\Debug\res\drawable\bg_login.png
+C:\Users\try\Documents\Projects\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\obj\Debug\res\drawable\bg_screentitle.png
+C:\Users\try\Documents\Projects\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\obj\Debug\res\drawable\bg_xml_border_with_stroke.xml
+C:\Users\try\Documents\Projects\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\obj\Debug\res\drawable\bg_xml_normal_border_orange.xml
+C:\Users\try\Documents\Projects\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\obj\Debug\res\drawable\bg_xml_normal_border_silver.xml
+C:\Users\try\Documents\Projects\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\obj\Debug\res\drawable\bg_xml_round_border.xml
+C:\Users\try\Documents\Projects\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\obj\Debug\res\drawable\bg_xml_round_border_beige.xml
+C:\Users\try\Documents\Projects\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\obj\Debug\res\drawable\bg_xml_round_border_bottom.xml
+C:\Users\try\Documents\Projects\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\obj\Debug\res\drawable\bg_xml_round_border_bottom_with_stroke.xml
+C:\Users\try\Documents\Projects\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\obj\Debug\res\drawable\bg_xml_round_border_darkorange.xml
+C:\Users\try\Documents\Projects\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\obj\Debug\res\drawable\bg_xml_round_border_green.xml
+C:\Users\try\Documents\Projects\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\obj\Debug\res\drawable\bg_xml_round_border_orange.xml
+C:\Users\try\Documents\Projects\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\obj\Debug\res\drawable\bg_xml_round_border_top.xml
+C:\Users\try\Documents\Projects\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\obj\Debug\res\drawable\bg_xml_round_border_top_with_stroke.xml
+C:\Users\try\Documents\Projects\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\obj\Debug\res\drawable\dialogborder.xml
+C:\Users\try\Documents\Projects\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\obj\Debug\res\drawable\ic_account_normal.jpg
+C:\Users\try\Documents\Projects\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\obj\Debug\res\drawable\ic_account_pressed.jpg
+C:\Users\try\Documents\Projects\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\obj\Debug\res\drawable\ic_check_in_normal.jpg
+C:\Users\try\Documents\Projects\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\obj\Debug\res\drawable\ic_check_in_pressed.jpg
+C:\Users\try\Documents\Projects\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\obj\Debug\res\drawable\ic_gesture_slide.png
+C:\Users\try\Documents\Projects\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\obj\Debug\res\drawable\ic_gesture_zoom.png
+C:\Users\try\Documents\Projects\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\obj\Debug\res\drawable\ic_info.png
+C:\Users\try\Documents\Projects\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\obj\Debug\res\drawable\ic_left.png
+C:\Users\try\Documents\Projects\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\obj\Debug\res\drawable\ic_logo.png
+C:\Users\try\Documents\Projects\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\obj\Debug\res\drawable\ic_movie_normal.jpg
+C:\Users\try\Documents\Projects\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\obj\Debug\res\drawable\ic_movie_pressed.jpg
+C:\Users\try\Documents\Projects\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\obj\Debug\res\drawable\ic_navigate.png
+C:\Users\try\Documents\Projects\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\obj\Debug\res\drawable\ic_reserve.png
+C:\Users\try\Documents\Projects\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\obj\Debug\res\drawable\ic_right.png
+C:\Users\try\Documents\Projects\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\obj\Debug\res\drawable\ic_search.png
+C:\Users\try\Documents\Projects\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\obj\Debug\res\drawable\ic_star_normal.jpg
+C:\Users\try\Documents\Projects\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\obj\Debug\res\drawable\ic_star_pressed.jpg
+C:\Users\try\Documents\Projects\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\obj\Debug\res\drawable\img_afterearth.jpg
+C:\Users\try\Documents\Projects\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\obj\Debug\res\drawable\img_gijoe.jpg
+C:\Users\try\Documents\Projects\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\obj\Debug\res\drawable\img_ironman3.jpg
+C:\Users\try\Documents\Projects\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\obj\Debug\res\drawable\img_oz.jpg
+C:\Users\try\Documents\Projects\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\obj\Debug\res\drawable\qr_sample.png
+C:\Users\try\Documents\Projects\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\obj\Debug\res\drawable\testing.jpg
+C:\Users\try\Documents\Projects\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\obj\Debug\R.cs.flag
+C:\Users\try\Documents\Projects\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\obj\Debug\uploadflags.txt
+C:\Users\try\Desktop\Sureseats Android App\sureseats-final-repo\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\bin\Debug\Ph.Mobext.Sureseats.AndroidApp.dll
+C:\Users\try\Desktop\Sureseats Android App\sureseats-final-repo\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\bin\Debug\Ph.Mobext.Sureseats.AndroidApp.pdb
+C:\Users\try\Desktop\Sureseats Android App\sureseats-final-repo\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\bin\Debug\Ph.Mobext.Sureseats.AndroidApp.dll.mdb
+C:\Users\try\Desktop\Sureseats Android App\sureseats-final-repo\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\bin\Debug\Ph.Mobext.Sureseats.AndroidApp.apk
+C:\Users\try\Desktop\Sureseats Android App\sureseats-final-repo\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\bin\Debug\Ph.Mobext.Sureseats.AndroidApp-Signed.apk
+C:\Users\try\Desktop\Sureseats Android App\sureseats-final-repo\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\obj\Debug\Ph.Mobext.Sureseats.AndroidApp.dll
+C:\Users\try\Desktop\Sureseats Android App\sureseats-final-repo\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\obj\Debug\Ph.Mobext.Sureseats.AndroidApp.pdb
+C:\Users\try\Desktop\Sureseats Android App\sureseats-final-repo\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\obj\Debug\android\bin\Ph.Mobext.Sureseats.AndroidApp.apk
+C:\Users\try\Desktop\Sureseats Android App\sureseats-final-repo\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\obj\Debug\res\layout\main.xml
+C:\Users\try\Desktop\Sureseats Android App\sureseats-final-repo\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\obj\Debug\res\values\strings.xml
+C:\Users\try\Desktop\Sureseats Android App\sureseats-final-repo\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\obj\Debug\res\drawable\icon.png
+C:\Users\try\Desktop\Sureseats Android App\sureseats-final-repo\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\obj\Debug\res\layout\activity_loginmasterpage.xml
+C:\Users\try\Desktop\Sureseats Android App\sureseats-final-repo\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\obj\Debug\res\layout\activity_masterpage.xml
+C:\Users\try\Desktop\Sureseats Android App\sureseats-final-repo\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\obj\Debug\res\layout\activity_splashscreen.xml
+C:\Users\try\Desktop\Sureseats Android App\sureseats-final-repo\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\obj\Debug\res\layout\dialog_instruction.xml
+C:\Users\try\Desktop\Sureseats Android App\sureseats-final-repo\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\obj\Debug\res\layout\dialog_mtrcbrating.xml
+C:\Users\try\Desktop\Sureseats Android App\sureseats-final-repo\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\obj\Debug\res\layout\dialog_nomtrcbrating.xml
+C:\Users\try\Desktop\Sureseats Android App\sureseats-final-repo\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\obj\Debug\res\layout\dialog_verifypassword.xml
+C:\Users\try\Desktop\Sureseats Android App\sureseats-final-repo\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\obj\Debug\res\layout\dialogverifypassword.xml
+C:\Users\try\Desktop\Sureseats Android App\sureseats-final-repo\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\obj\Debug\res\layout\frag_checkin.xml
+C:\Users\try\Desktop\Sureseats Android App\sureseats-final-repo\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\obj\Debug\res\layout\frag_login_one.xml
+C:\Users\try\Desktop\Sureseats Android App\sureseats-final-repo\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\obj\Debug\res\layout\frag_login_two.xml
+C:\Users\try\Desktop\Sureseats Android App\sureseats-final-repo\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\obj\Debug\res\layout\frag_movie_termsandconditiondetail.xml
+C:\Users\try\Desktop\Sureseats Android App\sureseats-final-repo\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\obj\Debug\res\layout\frag_moviedetailscreen.xml
+C:\Users\try\Desktop\Sureseats Android App\sureseats-final-repo\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\obj\Debug\res\layout\frag_moviedetailtab.xml
+C:\Users\try\Desktop\Sureseats Android App\sureseats-final-repo\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\obj\Debug\res\layout\frag_moviehome.xml
+C:\Users\try\Desktop\Sureseats Android App\sureseats-final-repo\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\obj\Debug\res\layout\frag_moviescrollhome.xml
+C:\Users\try\Desktop\Sureseats Android App\sureseats-final-repo\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\obj\Debug\res\layout\frag_movietermsandcondition.xml
+C:\Users\try\Desktop\Sureseats Android App\sureseats-final-repo\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\obj\Debug\res\layout\frag_movietermsandconditiondetail.xml
+C:\Users\try\Desktop\Sureseats Android App\sureseats-final-repo\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\obj\Debug\res\layout\frag_movieticket.xml
+C:\Users\try\Desktop\Sureseats Android App\sureseats-final-repo\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\obj\Debug\res\layout\frag_myacctticketlistitem.xml
+C:\Users\try\Desktop\Sureseats Android App\sureseats-final-repo\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\obj\Debug\res\layout\frag_myticketlistitem.xml
+C:\Users\try\Desktop\Sureseats Android App\sureseats-final-repo\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\obj\Debug\res\layout\frag_promo.xml
+C:\Users\try\Desktop\Sureseats Android App\sureseats-final-repo\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\obj\Debug\res\layout\seatplaninstructionscreen.xml
+C:\Users\try\Desktop\Sureseats Android App\sureseats-final-repo\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\obj\Debug\res\layout\viewpager_xml.xml
+C:\Users\try\Desktop\Sureseats Android App\sureseats-final-repo\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\obj\Debug\res\values\bt_detail_screen_tab_page_style.xml
+C:\Users\try\Desktop\Sureseats Android App\sureseats-final-repo\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\obj\Debug\res\values\bt_detail_screen_text_tab_style.xml
+C:\Users\try\Desktop\Sureseats Android App\sureseats-final-repo\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\obj\Debug\res\values\rel_style.xml
+C:\Users\try\Desktop\Sureseats Android App\sureseats-final-repo\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\obj\Debug\res\values\style_dialog_border.xml
+C:\Users\try\Desktop\Sureseats Android App\sureseats-final-repo\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\obj\Debug\res\values\style_fill_parent.xml
+C:\Users\try\Desktop\Sureseats Android App\sureseats-final-repo\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\obj\Debug\res\values\style_main_navigation_button.xml
+C:\Users\try\Desktop\Sureseats Android App\sureseats-final-repo\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\obj\Debug\res\values\style_termsandconditiontextview.xml
+C:\Users\try\Desktop\Sureseats Android App\sureseats-final-repo\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\obj\Debug\res\values\style_termsandconditiontextview_values.xml
+C:\Users\try\Desktop\Sureseats Android App\sureseats-final-repo\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\obj\Debug\res\values\style_wrap_content.xml
+C:\Users\try\Desktop\Sureseats Android App\sureseats-final-repo\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\obj\Debug\res\anim\slide_down.xml
+C:\Users\try\Desktop\Sureseats Android App\sureseats-final-repo\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\obj\Debug\res\anim\slide_in_left.xml
+C:\Users\try\Desktop\Sureseats Android App\sureseats-final-repo\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\obj\Debug\res\anim\slide_left.xml
+C:\Users\try\Desktop\Sureseats Android App\sureseats-final-repo\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\obj\Debug\res\anim\slide_out_right.xml
+C:\Users\try\Desktop\Sureseats Android App\sureseats-final-repo\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\obj\Debug\res\anim\slide_right.xml
+C:\Users\try\Desktop\Sureseats Android App\sureseats-final-repo\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\obj\Debug\res\anim\slide_up.xml
+C:\Users\try\Desktop\Sureseats Android App\sureseats-final-repo\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\obj\Debug\res\drawable\ayala_logo_large.png
+C:\Users\try\Desktop\Sureseats Android App\sureseats-final-repo\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\obj\Debug\res\drawable\bg_body.jpg
+C:\Users\try\Desktop\Sureseats Android App\sureseats-final-repo\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\obj\Debug\res\drawable\bg_header.jpg
+C:\Users\try\Desktop\Sureseats Android App\sureseats-final-repo\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\obj\Debug\res\drawable\bg_home_arc.gif
+C:\Users\try\Desktop\Sureseats Android App\sureseats-final-repo\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\obj\Debug\res\drawable\bg_login.png
+C:\Users\try\Desktop\Sureseats Android App\sureseats-final-repo\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\obj\Debug\res\drawable\bg_screentitle.png
+C:\Users\try\Desktop\Sureseats Android App\sureseats-final-repo\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\obj\Debug\res\drawable\bg_xml_border_with_stroke.xml
+C:\Users\try\Desktop\Sureseats Android App\sureseats-final-repo\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\obj\Debug\res\drawable\bg_xml_normal_border_orange.xml
+C:\Users\try\Desktop\Sureseats Android App\sureseats-final-repo\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\obj\Debug\res\drawable\bg_xml_normal_border_silver.xml
+C:\Users\try\Desktop\Sureseats Android App\sureseats-final-repo\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\obj\Debug\res\drawable\bg_xml_round_border.xml
+C:\Users\try\Desktop\Sureseats Android App\sureseats-final-repo\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\obj\Debug\res\drawable\bg_xml_round_border_beige.xml
+C:\Users\try\Desktop\Sureseats Android App\sureseats-final-repo\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\obj\Debug\res\drawable\bg_xml_round_border_bottom.xml
+C:\Users\try\Desktop\Sureseats Android App\sureseats-final-repo\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\obj\Debug\res\drawable\bg_xml_round_border_bottom_with_stroke.xml
+C:\Users\try\Desktop\Sureseats Android App\sureseats-final-repo\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\obj\Debug\res\drawable\bg_xml_round_border_darkorange.xml
+C:\Users\try\Desktop\Sureseats Android App\sureseats-final-repo\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\obj\Debug\res\drawable\bg_xml_round_border_green.xml
+C:\Users\try\Desktop\Sureseats Android App\sureseats-final-repo\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\obj\Debug\res\drawable\bg_xml_round_border_orange.xml
+C:\Users\try\Desktop\Sureseats Android App\sureseats-final-repo\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\obj\Debug\res\drawable\bg_xml_round_border_top.xml
+C:\Users\try\Desktop\Sureseats Android App\sureseats-final-repo\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\obj\Debug\res\drawable\bg_xml_round_border_top_with_stroke.xml
+C:\Users\try\Desktop\Sureseats Android App\sureseats-final-repo\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\obj\Debug\res\drawable\dialogborder.xml
+C:\Users\try\Desktop\Sureseats Android App\sureseats-final-repo\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\obj\Debug\res\drawable\ic_account_normal.jpg
+C:\Users\try\Desktop\Sureseats Android App\sureseats-final-repo\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\obj\Debug\res\drawable\ic_account_pressed.jpg
+C:\Users\try\Desktop\Sureseats Android App\sureseats-final-repo\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\obj\Debug\res\drawable\ic_check_in_normal.jpg
+C:\Users\try\Desktop\Sureseats Android App\sureseats-final-repo\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\obj\Debug\res\drawable\ic_check_in_pressed.jpg
+C:\Users\try\Desktop\Sureseats Android App\sureseats-final-repo\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\obj\Debug\res\drawable\ic_gesture_slide.png
+C:\Users\try\Desktop\Sureseats Android App\sureseats-final-repo\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\obj\Debug\res\drawable\ic_gesture_zoom.png
+C:\Users\try\Desktop\Sureseats Android App\sureseats-final-repo\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\obj\Debug\res\drawable\ic_info.png
+C:\Users\try\Desktop\Sureseats Android App\sureseats-final-repo\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\obj\Debug\res\drawable\ic_left.png
+C:\Users\try\Desktop\Sureseats Android App\sureseats-final-repo\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\obj\Debug\res\drawable\ic_logo.png
+C:\Users\try\Desktop\Sureseats Android App\sureseats-final-repo\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\obj\Debug\res\drawable\ic_movie_normal.jpg
+C:\Users\try\Desktop\Sureseats Android App\sureseats-final-repo\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\obj\Debug\res\drawable\ic_movie_pressed.jpg
+C:\Users\try\Desktop\Sureseats Android App\sureseats-final-repo\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\obj\Debug\res\drawable\ic_navigate.png
+C:\Users\try\Desktop\Sureseats Android App\sureseats-final-repo\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\obj\Debug\res\drawable\ic_reserve.png
+C:\Users\try\Desktop\Sureseats Android App\sureseats-final-repo\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\obj\Debug\res\drawable\ic_right.png
+C:\Users\try\Desktop\Sureseats Android App\sureseats-final-repo\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\obj\Debug\res\drawable\ic_search.png
+C:\Users\try\Desktop\Sureseats Android App\sureseats-final-repo\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\obj\Debug\res\drawable\ic_star_normal.jpg
+C:\Users\try\Desktop\Sureseats Android App\sureseats-final-repo\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\obj\Debug\res\drawable\ic_star_pressed.jpg
+C:\Users\try\Desktop\Sureseats Android App\sureseats-final-repo\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\obj\Debug\res\drawable\img_afterearth.jpg
+C:\Users\try\Desktop\Sureseats Android App\sureseats-final-repo\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\obj\Debug\res\drawable\img_gijoe.jpg
+C:\Users\try\Desktop\Sureseats Android App\sureseats-final-repo\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\obj\Debug\res\drawable\img_ironman3.jpg
+C:\Users\try\Desktop\Sureseats Android App\sureseats-final-repo\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\obj\Debug\res\drawable\img_oz.jpg
+C:\Users\try\Desktop\Sureseats Android App\sureseats-final-repo\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\obj\Debug\res\drawable\qr_sample.png
+C:\Users\try\Desktop\Sureseats Android App\sureseats-final-repo\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\obj\Debug\res\drawable\testing.jpg
+C:\Users\try\Desktop\Sureseats Android App\sureseats-final-repo\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\obj\Debug\R.cs.flag
+C:\Users\try\Desktop\Sureseats Android App\sureseats-final-repo\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\obj\Debug\uploadflags.txt
+C:\Users\try\Desktop\Sureseats Android App\sureseats-final-repo\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\obj\Debug\res\drawable\dude.png
+C:\Users\try\Desktop\Sureseats Android App\sureseats-final-repo\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\obj\Debug\res\anim\fade_in.xml
+C:\Users\try\Desktop\Sureseats Android App\sureseats-final-repo\Ph.Mobext.Sureseats.AndroidApp\Ph.Mobext.Sureseats.AndroidApp\obj\Debug\res\anim\fade_out.xml
