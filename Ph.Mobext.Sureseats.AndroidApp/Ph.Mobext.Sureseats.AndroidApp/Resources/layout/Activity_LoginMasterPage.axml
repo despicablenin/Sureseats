@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/style_fill_parent"
+    android:background="@drawable/bg_logIn"
+    android:gravity="center"
+    android:orientation="vertical">
+    <LinearLayout
+        android:gravity="center"
+        android:layout_gravity="top"
+        android:layout_weight="1"
+        android:layout_height="wrap_content"
+        android:layout_width="fill_parent"
+        android:orientation="vertical">
+        <LinearLayout
+            android:gravity="center"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+            <ImageView
+                style="@style/style_wrap_content"
+                android:id="@+id/LoginMaster_imgLogo"
+                android:src="@drawable/ic_logo" />
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="10dp" />
+        <TextView
+            style="@style/style_wrap_content"
+            android:id="@+id/LoginMaster_Title"
+            android:text="SURESEATS" />
+    </LinearLayout>
+    <FrameLayout
+        style="@style/style_wrap_content"
+        android:id="@+id/LoginMaster_fraContent"
+        android:gravity="top"
+        android:layout_gravity="center" />
+    <LinearLayout
+        android:gravity="center"
+        android:layout_gravity="bottom"
+        android:layout_weight="1"
+        android:layout_height="30dp"
+        android:layout_width="fill_parent"
+        android:orientation="vertical">
+        <TextView
+            style="@style/style_wrap_content"
+            android:id="@+id/LoginMaster_tvStillDontHaveAnAccount"
+            android:text="Still don't have an account?"
+            android:layout_gravity="center"
+            android:padding="15dp" />
+        <TextView
+            android:background="@drawable/bg_xml_round_border_orange"
+            android:id="@+id/LoginMaster_tvRegister"
+            android:text="REGISTER"
+            android:gravity="center"
+            android:layout_gravity="center"
+            android:layout_height="40dp"
+            android:layout_width="130dp" />
+        <LinearLayout
+            style="@style/style_wrap_content"
+            android:gravity="center"
+            android:layout_height="wrap_content"
+            android:layout_width="fill_parent"
+            android:orientation="horizontal">
+            <TextView
+                style="@style/style_wrap_content"
+                android:id="@+id/LoginMaster_tvHelp"
+                android:text="Help"
+                android:layout_gravity="center" />
+            <TextView
+                style="@style/style_wrap_content"
+                android:id="@+id/LoginMaster_tvDiv"
+                android:text="|"
+                android:layout_gravity="center"
+                android:padding="10dp" />
+            <TextView
+                style="@style/style_wrap_content"
+                android:id="@+id/LoginMaster_tvContactUs"
+                android:text="Contact Us"
+                android:layout_gravity="center" />
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

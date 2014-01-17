@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="style_termsAndConditionTextView_values" parent="@style/style_termsAndConditionTextView"> 
+        <item name="android:layout_alignParentRight">true</item>		
+        <item name="android:layout_marginRight">10dp</item>
+    </style>
+</resources>

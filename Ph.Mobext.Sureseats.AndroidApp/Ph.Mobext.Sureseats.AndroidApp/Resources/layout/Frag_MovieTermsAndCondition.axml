@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="@drawable/bg_body"
+    android:gravity="center"
+    android:layout_height="295dp"
+    android:layout_width="fill_parent"
+    android:orientation="vertical">
+    <ScrollView
+        android:id="@+id/MT_andC_scrollView"
+        android:layout_height="fill_parent"
+        android:layout_width="fill_parent"
+        android:scrollbars="vertical">
+        <LinearLayout
+            android:gravity="center"
+            android:layout_height="wrap_content"
+            android:layout_width="fill_parent"
+            android:orientation="vertical">
+        <!--Contains the Confirmation Code:-->
+            <TextView
+                android:id="@+id/MTandC_tvConfirmationCode"
+                android:background="#FFFFFF"
+                android:gravity="center"
+                android:padding="15dp"
+                android:text="CONFIRMATION CODE: 0001010ABCDEE"
+                android:layout_height="wrap_content"
+                android:layout_width="fill_parent" />
+        <!--Contains QR CODE-->
+            <ImageView
+                android:background="#FFFFFF"
+                android:id="@+id/MTandC_imgQrCode"
+                android:src="@drawable/qr_sample"
+                android:layout_height="200dp"
+                android:layout_width="200dp"
+                android:padding="25dp"
+                android:scaleType="fitCenter" />
+        <!--Movie Title and Rating-->
+            <RelativeLayout
+                android:background="@drawable/bg_xml_border_with_stroke"
+                android:layout_height="wrap_content"
+                android:layout_width="fill_parent"
+                android:orientation="vertical">
+                <TextView
+                    android:id="@+id/MTandC_tvMovieTitle"
+                    android:padding="15dp"
+                    android:text="ABOUT TIME (2D)"
+                    android:layout_height="wrap_content"
+                    android:layout_width="fill_parent"
+                    android:layout_alignParentLeft="true"
+                    android:layout_marginLeft="30dp" />
+                <TextView
+                    android:id="@+id/MTandC_tvMTRCB"
+                    android:background="@drawable/bg_xml_round_border_green"
+                    android:gravity="center"
+                    android:text="G"
+                    android:layout_height="40dp"
+                    android:layout_width="40dp"
+                    android:layout_alignParentRight="true"
+                    android:layout_marginRight="30dp"
+                    android:layout_marginTop="5dp" />
+            </RelativeLayout>
+            <LinearLayout
+                android:id="@+id/MTandC_linBase"
+                style="@style/style_wrap_content"
+                android:gravity="left"
+                android:orientation="vertical" />
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

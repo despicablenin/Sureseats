@@ -1,0 +1,1 @@
+<resources><style name="bt_detail_screen_tab_page_style" parent="@style/style_fill_parent"><item name="android:layout_weight">1</item><item name="android:orientation">horizontal</item><item name="android:padding">5dp</item><item name="android:gravity">center</item></style></resources>
